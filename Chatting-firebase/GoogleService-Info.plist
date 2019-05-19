@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>316313148333-t1o09fjasi1iknnn6ot2d6s7ol4vle63.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.316313148333-t1o09fjasi1iknnn6ot2d6s7ol4vle63</string>
+	<key>API_KEY</key>
+	<string>AIzaSyClT7bucMoJ4R6FQ4vtMIS7eJ3fO8wUd4Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>316313148333</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Chatting-firebase</string>
+	<key>PROJECT_ID</key>
+	<string>breakpoint-dev-b405f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>breakpoint-dev-b405f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:316313148333:ios:a7fb05c5f8288b79</string>
+	<key>DATABASE_URL</key>
+	<string>https://breakpoint-dev-b405f.firebaseio.com</string>
+</dict>
+</plist>
